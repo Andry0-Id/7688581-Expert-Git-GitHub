@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Andry Nirina ANDRIANARISON**
+* **O.C.**
 
 ## License
 
